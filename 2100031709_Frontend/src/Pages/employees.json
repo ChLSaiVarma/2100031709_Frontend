@@ -1,0 +1,19 @@
+[
+    {
+      "id": "1",
+      "FirstName": "John",
+      "LastName": "Doe",
+      "Gender": "M",
+      "Age": 30,
+      "Department": "IT"
+    },
+    {
+      "id": "2",
+      "FirstName": "Jane",
+      "LastName": "Doe",
+      "Gender": "F",
+      "Age": 45,
+      "Department": "HR"
+    }
+  ]
+  
